@@ -8,6 +8,7 @@ license_text: 'Courtesy of https://jnd.org/'
 categories:
   - HCI
   - Usability Engineering
+  - Cognitive Psychology
 tags:
  -HCI
  -Usability
