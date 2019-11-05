@@ -9,7 +9,7 @@ categories:
   - output-device
   - input-device
 tags:
-  - 
+  - indicators
   - interfaces
   - buttons
 ---
